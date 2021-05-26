@@ -12,8 +12,8 @@ Books Related Computer Science, Mechanical and Civil Engineering
 ## **Computer Science Books📚**
  >- [Java All-in-one for Dummies](Books/Java%20All-in-One%20For%20Dummies%20.pdf)
  >- [Data Stucture using C](Books/Data%20Structures%20Using%20C%20(%20PDFDrive%20).pdf)
- >- [Core Java- an Integrated approach](Books/Core%20Java%20An%20Integrated%20Approach%20by%20R.%20Nageswara%20Rao%20(z-lib.org).pdf)
- >- [Java The Complete Reference by Herbert Schildt- 11th Edition](Books/Java%20The%20Complete%20Reference,%20Eleventh%20Edition%20by%20Herbert%20Schildt%20(z-lib.org).pdf)
+ >- [Core Java- an Integrated approach](https://1drv.ms/b/s!Aho15Flj-XbQgSPjoA8lJ-pQ5kCY)
+ >- [Java The Complete Reference by Herbert Schildt- 11th Edition](https://drive.google.com/file/d/1FPmSo3dID7P4baE2umyfTCrWTBT-cywo/view?usp=drivesdk)
  >- [Data Science , AI , Machine Learning , Deep Learning Books Collection 500+ books](https://mega.nz/#F!JjIzmADT!C6PyNl8kH9igqd6P2sJ_GQ)
  >- [OOP with C++](https://t.me/engineering_books1/6413)
  >- [Numerical Methods in Engineering and Science](https://t.me/engineering_books1/6415)
